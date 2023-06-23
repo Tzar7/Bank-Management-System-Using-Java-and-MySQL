@@ -5,7 +5,7 @@ Introduction:
 Using the technologies of Java, Swing, JDBC, and MySQL, the Banking management system project was created. Since it features both connectivity—i.e., frontend and backend—the project is nicely constructed. The Project is constructed on a platform that uses the Apache Netbeans IDE version 18, and MySql Workbench  version 8.1 CE, for connectivity from the front end to the back end. The Project's User Interface (UI) was created using Java's Swing, Awt, and JavaFX as well as a variety of Java objects, and it is very user-friendly, making it suitable for all types of people to utilize.
 
 Downloads:
-Download these jar files from the below link and place them inside the library folder of the project by right click on the library folder and selecting "ADD JAR/Folder".Link=https://drive.google.com/drive/folders/1NoJJuUU35AXZ01cskEU8c0g5LJTaqA_Q?usp=sharing
+Download these jar files from the below link and place them inside the library folder of the project by right click on the library folder and selecting         "ADD JAR/Folder". Link=https://drive.google.com/drive/folders/1NoJJuUU35AXZ01cskEU8c0g5LJTaqA_Q?usp=sharing
 
 Important components of a bank management system:
 Customer Management: The system gives the bank the ability to manage customer data, including identifying data, account opening, account closure, and account maintenance.
